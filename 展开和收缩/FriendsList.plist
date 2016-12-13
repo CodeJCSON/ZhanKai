@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>headPortrait</key>
+		<string>touxiang.jpg</string>
+		<key>nickName</key>
+		<string>SteveJobs</string>
+		<key>context</key>
+		<string>[在线]</string>
+	</dict>
+	<dict>
+		<key>headPortrait</key>
+		<string>Tim Cook.png</string>
+		<key>nickName</key>
+		<string>Tim Cook</string>
+		<key>context</key>
+		<string>离线</string>
+	</dict>
+	<dict>
+		<key>headPortrait</key>
+		<string>Bill Crtes.png</string>
+		<key>nickName</key>
+		<string>Bill Crtes</string>
+		<key>context</key>
+		<string>［在线］</string>
+	</dict>
+	<dict>
+		<key>headPortrait</key>
+		<string>Ma Yun.png</string>
+		<key>nickName</key>
+		<string>马云</string>
+		<key>context</key>
+		<string>［在线］</string>
+	</dict>
+	<dict>
+		<key>headPortrait</key>
+		<string>SunZhengyi.png</string>
+		<key>nickName</key>
+		<string>孙正义</string>
+		<key>context</key>
+		<string>［在线］</string>
+	</dict>
+</array>
+</plist>
